@@ -1,0 +1,76 @@
+.pkp_structure_footer_wrapper {
+  background: #144733;
+}
+
+.pkp_site_name .is_img {
+  display: inline-block;
+  padding-left: 50px !important;
+  background-color: #2D5843 !important;
+}
+
+.has_site_logo .pkp_head_wrapper {
+  width: auto;
+}
+
+.pkp_navigation_primary_wrapper {
+  width: auto;
+  padding-left: 50px !important;
+}
+
+.pkp_navigation_primary_wrapper {
+  width: auto;
+  padding-left: 50px !important;
+}
+
+.pkp_footer_content {
+  padding: 30px;
+  text-align: left;
+  color: white !important;
+}
+
+.pkp_brand_footer a {
+  float: right;
+  display: block;
+  max-width: 70px !important;
+  color: white;
+}
+
+.pkp_structure_head {
+  background-color: #2D5843 !important;
+  border-bottom: 1px solid #ddd;
+}
+
+.pkp_navigation_primary_wrapper {
+  display: block;
+  background-color: #B2D16D !important;
+  font-size: 15px !important;
+  margin-top: 10px;
+  display: block !important;
+}
+
+.pkp_navigation_primary {
+  display: inline-block;
+  max-width: 80%;
+  text-align: left;
+  font-size: 16px !important;
+}
+
+.pkp_structure_main:before {
+	background-image: url("https://www.kalro.org/conference/public/journals/1/homepageImage_en_US.png") !important;
+	background-repeat: no-repeat;
+	height: 100px !important;
+}
+
+.pkp_navigation_primary_wrapper::before, .pkp_navigation_primary_wrapper::after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background-color: #2D5843 !important;
+}
+
+
+.pkp_navigation_primary::before {
+  background-color: #fff !important;
+}
+
+
